@@ -1,0 +1,38 @@
+
+m	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S1272"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+f	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¹À=
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¡Óäøÿÿÿÿ
+2
+java:S16434"Use a StringBuilder instead.(×œÒÉ
+7
+java:S16437"Use a StringBuilder instead.(˜Šœ¤ÿÿÿÿÿ
+7
+java:S1643D"Use a StringBuilder instead.(‹ÈÌñúÿÿÿÿ
+I
+java:S1481	".Remove this unused "isPresent" local variable.(ıòÄ€ıÿÿÿÿ
+h	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒúãÈÿÿÿÿÿ
+@	java:S106f"+Replace this use of System.out by a logger.(Ó„ÊÚ
+@	java:S106t"+Replace this use of System.out by a logger.(«àƒñ
+G	java:S106¿"+Replace this use of System.out by a logger.(¬¨}8„Ğñ¼ä2
+D
+java:S1659Ç"!Declare "end" on a separate line.(÷ø¯Õúÿÿÿÿ8Ğñ¼ä2
+B
+java:S1659›"$Declare "needle" on a separate line.(€¥â8¨Ğñ¼ä2
+A	java:S106ä"+Replace this use of System.out by a logger.(ûÎìí
+@	java:S106æ"+Replace this use of System.out by a logger.(¬´¶{
+F	java:S106î"+Replace this use of System.out by a logger.(Åª£Šùÿÿÿÿ
+F	java:S106ğ"+Replace this use of System.out by a logger.(Ö´³Ãøÿÿÿÿ
+F	java:S106ö"+Replace this use of System.out by a logger.(­–ÒÁøÿÿÿÿ
+A	java:S106ú"+Replace this use of System.out by a logger.(£ÿ©¯
+F	java:S106€"+Replace this use of System.out by a logger.(„¿îşøÿÿÿÿ
+F	java:S106†"+Replace this use of System.out by a logger.(ÒÎşŞşÿÿÿÿ
+F	java:S106ˆ"+Replace this use of System.out by a logger.(ëïŞÔûÿÿÿÿ
+A	java:S106Œ"+Replace this use of System.out by a logger.(ŒØÎ®
+F	java:S106•"+Replace this use of System.out by a logger.(²È¹ñøÿÿÿÿ
+@	java:S106—"+Replace this use of System.out by a logger.(²­5
+M	java:S106™"+Replace this use of System.out by a logger.(Ì¹Õ‹şÿÿÿÿ8ÈĞñ¼ä2
+G	java:S106Ÿ"+Replace this use of System.out by a logger.(ÖƒĞ8ÊĞñ¼ä2
+H	java:S106¡"+Replace this use of System.out by a logger.(¾Ÿí±8ÌĞñ¼ä2
+H	java:S106­"+Replace this use of System.out by a logger.(ç°³¢8ÑĞñ¼ä2
+H	java:S106¯"+Replace this use of System.out by a logger.(œ÷¼ú8ÓĞñ¼ä2

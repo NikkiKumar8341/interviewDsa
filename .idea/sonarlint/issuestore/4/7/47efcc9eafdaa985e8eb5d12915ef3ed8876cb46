@@ -1,0 +1,27 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¹î‘ıÿÿÿÿ
+c
+java:S3824?"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(İ¬¦ÿÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(Ë …¸üÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(“ğş¹ıÿÿÿÿ
+J
+java:S2864G"4Iterate over the "entrySet" instead of the "keySet".(¿õ•®
+S
+java:S1854Œ"7Remove this useless assignment to local variable "map".(Æ§‰Ğüÿÿÿÿ
+T
+java:S1854©"8Remove this useless assignment to local variable "ints".(€ÈåÑøÿÿÿÿ
+D
+java:S1481Œ"(Remove this unused "map" local variable.(Æ§‰Ğüÿÿÿÿ
+A	java:S106’"+Replace this use of System.out by a logger.(éŠŞÑ
+F	java:S106™"+Replace this use of System.out by a logger.(óñö™ÿÿÿÿÿ
+K
+java:S2864 "4Iterate over the "entrySet" instead of the "keySet".(¿õ•®
+>
+java:S2201¡"'The return value of "get" must be used.(Ş–Æô
+F	java:S106¢"+Replace this use of System.out by a logger.(Íí¶´ıÿÿÿÿ
+E
+java:S1481©")Remove this unused "ints" local variable.(€ÈåÑøÿÿÿÿ
+A	java:S106­"+Replace this use of System.out by a logger.(ñë¨Ã
+F	java:S106°"+Replace this use of System.out by a logger.(ªöììşÿÿÿÿ

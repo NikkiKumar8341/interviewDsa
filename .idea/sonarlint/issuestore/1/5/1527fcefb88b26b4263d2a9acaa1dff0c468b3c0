@@ -1,0 +1,60 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê§À•
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Îîüÿÿÿÿ
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Îîüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÂ¾Í
+l	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğİ·¸øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¹î‘ıÿÿÿÿ
+N
+java:S2589œ"7Remove this expression which always evaluates to "true"(Ÿ‰ÒÄ
+E
+java:S1197	"*Move the array designators [] to the type.(ÿşÍüÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ş€´æşÿÿÿÿ
+7
+java:S1659"!Declare "end" on a separate line.(±¯éñ
+7
+java:S1659+"!Declare "end" on a separate line.(Ãõå›
+E
+java:S11978"*Move the array designators [] to the type.(×ºë¨ÿÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(ºÿ†àúÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106F"+Replace this use of System.out by a logger.(ŒÚÉñ
+E
+java:S1197K"*Move the array designators [] to the type.(÷¸²ÿÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(Ë …¸üÿÿÿÿ
+E	java:S106\"+Replace this use of System.out by a logger.(¬€€îşÿÿÿÿ
+E	java:S106^"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106a"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(†ûÖøÿÿÿÿ
+?
+java:S1197j"*Move the array designators [] to the type.(†­Ëv
+6
+java:S1659’"Declare "j" on a separate line.(üÒº«
+=
+java:S1659ª"!Declare "ans" on a separate line.(ìŠ«’üÿÿÿÿ
+R
+java:S1854Ã";Remove this useless assignment to local variable "byTimes".(ı…ÂÖ
+C
+java:S1481Ã",Remove this unused "byTimes" local variable.(ı…ÂÖ
+R
+java:S1854"6Remove this useless assignment to local variable "ab".(úÒ¶èøÿÿÿÿ
+A	java:S106ç"+Replace this use of System.out by a logger.(¢ô‚ë
+A	java:S106ë"+Replace this use of System.out by a logger.(¦Ù„§
+F	java:S106ï"+Replace this use of System.out by a logger.(ÖÎùÂşÿÿÿÿ
+A	java:S106ó"+Replace this use of System.out by a logger.(‡³³
+A	java:S106ö"+Replace this use of System.out by a logger.(ÌÌä’
+A	java:S106ø"+Replace this use of System.out by a logger.(ƒ…³¯
+F	java:S106ş"+Replace this use of System.out by a logger.(û×âôøÿÿÿÿ
+F	java:S106„"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+F	java:S106Œ"+Replace this use of System.out by a logger.(äïêßúÿÿÿÿ
+C
+java:S1481"'Remove this unused "ab" local variable.(úÒ¶èøÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+A	java:S106–"+Replace this use of System.out by a logger.(çÃ
+F	java:S106"+Replace this use of System.out by a logger.(¸´ıÿÿÿÿ
+A	java:S106Ÿ"+Replace this use of System.out by a logger.(™„“Å
+F	java:S106£"+Replace this use of System.out by a logger.(¸­¯¼úÿÿÿÿ
+F	java:S106©"+Replace this use of System.out by a logger.(½ºÁöüÿÿÿÿ
+A	java:S106¯"+Replace this use of System.out by a logger.(œÜÚŠ
+F	java:S106µ"+Replace this use of System.out by a logger.( ÷üıÿÿÿÿÿ
