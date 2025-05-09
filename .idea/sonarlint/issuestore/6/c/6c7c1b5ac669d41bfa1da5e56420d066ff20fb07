@@ -1,0 +1,16 @@
+
+„
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8ê‚è’ä2
+ƒ
+java:S4165
+"aRemove this useless assignment; "age" already holds the assigned value along all execution paths.(ú­³Ìúÿÿÿÿ8é‚è’ä2
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8…©ò’ä2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ï“‡üÿÿÿÿ8öÓñ¼ä2
+u
+java:S3012!"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ˆã08úÓñ¼ä2
+Q
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8ı‚è’ä2
+Q
+java:S1656
+"/Remove or correct this useless self-assignment.(ú­³Ìúÿÿÿÿ8ÿ‚è’ä2

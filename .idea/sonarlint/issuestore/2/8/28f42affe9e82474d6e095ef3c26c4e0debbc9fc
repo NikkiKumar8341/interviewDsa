@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¹î‘ıÿÿÿÿ
+9
+java:S1659D"#Declare "right" on a separate line.(µÁ¹’
+D
+java:S1481"-Remove this unused "equCount" local variable.(Ç¶Àš
+F	java:S106"+Replace this use of System.out by a logger.(ÈÿÆÉüÿÿÿÿ
+F	java:S106®"+Replace this use of System.out by a logger.(ªĞ€£üÿÿÿÿ
+A	java:S106µ"+Replace this use of System.out by a logger.(®§ŞÙ
+A	java:S106º"+Replace this use of System.out by a logger.(ı Õò
+F	java:S106Ã"+Replace this use of System.out by a logger.(Œ¹æñûÿÿÿÿ

@@ -1,0 +1,27 @@
+
+T
+$src/main/java/flowChart/FunMeth.java,3\7\37f67b152a3526c251a62e2dd7e06a6ae477adca
+T
+$src/main/java/basicPattern/Oops.java,3\b\3b6bd0f6013115db1fae554fc8a0da54472de666
+]
+-src/main/java/arrayPart1/ArrayAssignment.java,4\7\47efcc9eafdaa985e8eb5d12915ef3ed8876cb46
+]
+-src/main/java/arrayPart1/ArrayBasicPart1.java,1\5\1527fcefb88b26b4263d2a9acaa1dff0c468b3c0
+\
+,src/main/java/binarySearch/BinarySearch.java,2\1\21376dd3cd8826605c28e16be005cfad5480c48d
+]
+-src/main/java/arrayPart1/ArrayBasicPart2.java,2\8\28f42affe9e82474d6e095ef3c26c4e0debbc9fc
+X
+(src/main/java/basicPattern/Pattern1.java,7\7\77fe325126d553d4e882ce3aefdffaa7d4ff0701
+[
++src/main/java/arrayPart1/MatixPractice.java,b\a\bad99fea064178d97edb4410010619a1037e9450
+]
+-src/main/java/arrayPart1/BitMunipulation.java,2\2\22287ebf9b7bdc89491e49899e0d9cad43b6c593
+W
+'src/main/java/string/StringProblem.java,f\4\f4515fff105552a75e17f3833ee16a509ba55b77
+O
+src/main/java/cloning/Main.java,2\e\2e332b040a6e6f542ee33373a40ebd1ba9504a75
+P
+ src/main/java/cloning/Human.java,6\c\6c7c1b5ac669d41bfa1da5e56420d066ff20fb07
+[
++src/main/java/recursion/RecursionBasic.java,d\a\daaaf8f5a06a9c94327c59bc21a51a546c898362
